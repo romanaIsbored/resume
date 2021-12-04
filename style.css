@@ -1,0 +1,36 @@
+header{
+ font-family:Comfortaa;
+}
+ 
+body{
+ margin:0px;
+ border: rgb(194, 171, 107) 4px double;
+ border-color:antiquewhite beige bisque;
+ background-color:lemonchiffon
+ 
+}
+ 
+h1{
+ margin:0px;
+ letter-spacing: 3px;
+ text-transform:uppercase;
+ 
+}
+ 
+ 
+.font-blue{
+ color:burlywood;
+ background-color: beige;
+}
+ 
+ 
+ 
+#ID_name{
+ margin:0px;
+ letter-spacing:3px;
+ text-transform:uppercase;
+ padding: 15px;
+ 
+ 
+ 
+}
